@@ -36,19 +36,19 @@
    
    - OpenweatherMap API를 사용하여 구문분석 한 기상 정보 서비스입니다.
    
-   - 자세한 사항은 <a href="https://poseidon-weather-app.herokuapp.com/">여기를</a>참고 해주세요.<br><br>
+   - 자세한 사항은 <a href="https://poseidon-weather-app.herokuapp.com/">여기를</a> 참고 해주세요.<br><br>
    
  * ### 어반 스케치 블로그
  
    - 어반 스케치 를 공유하는 블로그입니다.
    
-   - 자세한 사항은 <a href="https://urban-sketch.herokuapp.com/">여기를</a>참고 해주세요.<br><br>
+   - 자세한 사항은 <a href="https://urban-sketch.herokuapp.com/">여기를</a> 참고 해주세요.<br><br>
    
  * ### mars.css
  
    - 사용하기 매우 간단한 css 라이브러리입니다.
    
-   - 자세한 사항은 <a href="https://github.com/GayaChoi/mars">여기를</a>참조해주세요.<br><br>
+   - 자세한 사항은 <a href="https://github.com/GayaChoi/mars">여기를</a> 참조 해주세요.<br><br>
    
    
    
