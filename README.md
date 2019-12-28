@@ -48,7 +48,7 @@
  
    - 사용하기 매우 간단한 css 라이브러리입니다.
    
-   - 자세한 사항은 <a href="https://github.com/GayaChoi/mars">여기를</a> 참조 해주세요.<br><br>
+   - 자세한 사항은 <a href="https://marscss.herokuapp.com/">여기를</a> 참조 해주세요.<br><br>
    
    
    
