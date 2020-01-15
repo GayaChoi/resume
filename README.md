@@ -50,7 +50,7 @@
   
    - 유튜브 섬네일 을 추출할 수 있습니다.
    
-   - 자세한 사항은 <a href="https://gayayouthumb.firebaseapp.com/">여기를</a> 참고 해주세요.<br><br> 
+   - 자세한 사항은 <a href="https://awesomeyouthumb.firebaseapp.com/">여기를</a> 참고 해주세요.<br><br> 
 
  * ### mars.css
  
