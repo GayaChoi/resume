@@ -1,6 +1,6 @@
 # 프로젝트
 
-<code>사무 자동화와 오픈소스 프로젝트입니다.</code>  
+<code>진행했던 프로젝트입니다.</code>  
 <br><br>
 
 
@@ -32,9 +32,11 @@
    
    - 자세한 사항은 <a href="https://github.com/GayaChoi/Defense-Game-Mobile">여기를</a> 참고 해주세요.<br><br>
    
- * ### 기상 정보 서비스
+   - 샘플파일 은 <a href="https://drive.google.com/drive/u/0/folders/1HxuuZsnomRSpCnNNLplYDg39gI7mfyaF">여기를</a> 참고 해주세요.<br><br>
    
-   - OpenweatherMap API를 사용하여 구문분석 한 기상 정보 서비스입니다.
+ * ### 기상 정보 API
+   
+   - OpenweatherMap API를 사용하여 렌더링 한 기상 정보 애플리케이션 입니다.
    
    - 자세한 사항은 <a href="https://poseidon-weather-app.herokuapp.com/">여기를</a> 참고 해주세요.<br><br>
    
