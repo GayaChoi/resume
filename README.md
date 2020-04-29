@@ -58,7 +58,13 @@
    
    - 자세한 사항은 <a href="https://marscss.herokuapp.com/">여기를</a> 참조 해주세요.<br><br>
    
-* ### gayablog (진행중~)
+* ### Hexo Blog
+    
+    - Hexo 를 사용한 블로그 입니다.
+    
+    - 자세한 사항은 <a href="https://choigaya.github.io/">여기를</a> 참조 해주세요.<br><br>
+   
+   
  
    
    
